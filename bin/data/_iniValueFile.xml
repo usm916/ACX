@@ -1,0 +1,27 @@
+<attractor>
+    <num>
+        <size>0</size>
+    </num>
+    <fileName>
+        <name>wireWall6</name>
+        <scale>1.000000000</scale>
+        <videoScale>2.000000000</videoScale>
+        <timeScale>0.179999992</timeScale>
+        <noiseScaleL>0.009000000</noiseScaleL>
+        <noiseScaleS>0.038000003</noiseScaleS>
+        <attRadius>30.000000000</attRadius>
+        <armLength>21.000000000</armLength>
+        <nodeSize>12.000000000</nodeSize>
+    </fileName>
+    <CamMvParam>
+        <posX>0.000000000</posX>
+        <posY>0.000000000</posY>
+        <posZ>0.000000000</posZ>
+        <vecX>0.000000000</vecX>
+        <vecY>0.000000000</vecY>
+        <vecZ>0.000000000</vecZ>
+        <rotX>0.000000000</rotX>
+        <rotY>0.000000000</rotY>
+        <rotZ>0.004000000</rotZ>
+    </CamMvParam>
+</attractor>
